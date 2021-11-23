@@ -31,11 +31,11 @@ The latest version of the QIF files from the Box Assembly dataset, in the 2.1 an
 
 #### STEP
 
-Original STEP files of the Box Assembly that were translated to X3D via SFA.
+Original STEP files of the Box Assembly that were translated to X3D via [SFA](https://www.nist.gov/services-resources/software/step-file-analyzer-and-viewer).
 
 #### X3D
 
-Latest version of X3D files created by SFA. Also has older version of the X3D files. It also contains new example files sent by Soonjo containing surface highlights (this functionality has been implemented in STP2X3D, but it is still being incorporated into SFA). 
+Latest version of X3D files created by SFA. Also has older version of the X3D files. It also contains new example files sent by Soonjo containing surface highlights (this functionality has been implemented in [STP2X3D](https://www.nist.gov/services-resources/software/step-x3d-translator), but it is still being incorporated into SFA). 
 
 ## Usage
 
